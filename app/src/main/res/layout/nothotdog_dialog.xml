@@ -1,0 +1,18 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:orientation="vertical"
+    android:background="#632c2c">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-10dp"
+        android:text="Not Hotdog"
+        android:textSize="60dp"
+        android:gravity="center"
+        android:textColor="#fff"/>
+
+</LinearLayout>

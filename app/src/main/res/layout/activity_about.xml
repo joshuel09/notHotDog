@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".About">
+
+
+    <ImageView
+        android:id="@+id/about"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-10dp"
+        android:src="@drawable/ic_josusama_logo"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="NOT HOTDOG APP PROJECT ver0.01"
+        android:textStyle="bold"
+        android:textColor="#d6a317"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/lead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="DEVELOPER, DESIGN AND ART"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="#782020"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/leader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="JOSHUEL N. RAÑOLA"
+        android:textStyle="bold"
+        android:textColor="#2e2e2e"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/mich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:textStyle="bold"
+        android:textColor="#2e2e2e"
+        android:textSize="16dp" />
+
+
+    <TextView
+        android:id="@+id/sfx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Copyright 2018"
+        android:layout_gravity="center"
+        android:textColor="#303030"
+        android:textSize="17dp" />
+
+
+
+
+
+
+
+</LinearLayout>
