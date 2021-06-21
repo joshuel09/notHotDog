@@ -1,6 +1,6 @@
 #  NOT HOTDOG
 
-    Developed By: Josusama
+    Developed By: Josusama™
 
 ## Stack
     
